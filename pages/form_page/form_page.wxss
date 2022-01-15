@@ -1,0 +1,13 @@
+/*!
+ * WeUI v2.5.4 (https://github.com/weui/weui-wxss)
+ * Copyright 2021 Tencent, Inc.
+ * Licensed under the MIT license
+ */
+
+ @import '../../style/weui.wxss';
+
+.page{height:100%}.weui-label{width:4.1em}
+
+.weui-label {
+  color: red;
+}

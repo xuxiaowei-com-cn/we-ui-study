@@ -1,0 +1,23 @@
+{
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/form_page/form_page",
+          "pathName": "pages/form_page/form_page",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
